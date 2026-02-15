@@ -1,0 +1,20 @@
+﻿  CoreyJones-Assignment8.cpp
+f:\diginotes\cosc 1436\cosc_assignment8\coreyjones-assignment8\coreyjones-assignment8\coreyjones-assignment8.cpp(96): warning C4309: 'static_cast': truncation of constant value
+f:\diginotes\cosc 1436\cosc_assignment8\coreyjones-assignment8\coreyjones-assignment8\coreyjones-assignment8.cpp(97): warning C4309: 'static_cast': truncation of constant value
+f:\diginotes\cosc 1436\cosc_assignment8\coreyjones-assignment8\coreyjones-assignment8\coreyjones-assignment8.cpp(99): warning C4309: 'static_cast': truncation of constant value
+f:\diginotes\cosc 1436\cosc_assignment8\coreyjones-assignment8\coreyjones-assignment8\coreyjones-assignment8.cpp(100): warning C4309: 'static_cast': truncation of constant value
+f:\diginotes\cosc 1436\cosc_assignment8\coreyjones-assignment8\coreyjones-assignment8\coreyjones-assignment8.cpp(122): warning C4309: 'static_cast': truncation of constant value
+f:\diginotes\cosc 1436\cosc_assignment8\coreyjones-assignment8\coreyjones-assignment8\coreyjones-assignment8.cpp(123): warning C4309: 'static_cast': truncation of constant value
+f:\diginotes\cosc 1436\cosc_assignment8\coreyjones-assignment8\coreyjones-assignment8\coreyjones-assignment8.cpp(125): warning C4309: 'static_cast': truncation of constant value
+f:\diginotes\cosc 1436\cosc_assignment8\coreyjones-assignment8\coreyjones-assignment8\coreyjones-assignment8.cpp(126): warning C4309: 'static_cast': truncation of constant value
+f:\diginotes\cosc 1436\cosc_assignment8\coreyjones-assignment8\coreyjones-assignment8\coreyjones-assignment8.cpp(148): warning C4309: 'static_cast': truncation of constant value
+f:\diginotes\cosc 1436\cosc_assignment8\coreyjones-assignment8\coreyjones-assignment8\coreyjones-assignment8.cpp(149): warning C4309: 'static_cast': truncation of constant value
+f:\diginotes\cosc 1436\cosc_assignment8\coreyjones-assignment8\coreyjones-assignment8\coreyjones-assignment8.cpp(151): warning C4309: 'static_cast': truncation of constant value
+f:\diginotes\cosc 1436\cosc_assignment8\coreyjones-assignment8\coreyjones-assignment8\coreyjones-assignment8.cpp(152): warning C4309: 'static_cast': truncation of constant value
+f:\diginotes\cosc 1436\cosc_assignment8\coreyjones-assignment8\coreyjones-assignment8\coreyjones-assignment8.cpp(173): warning C4309: 'static_cast': truncation of constant value
+f:\diginotes\cosc 1436\cosc_assignment8\coreyjones-assignment8\coreyjones-assignment8\coreyjones-assignment8.cpp(174): warning C4309: 'static_cast': truncation of constant value
+f:\diginotes\cosc 1436\cosc_assignment8\coreyjones-assignment8\coreyjones-assignment8\coreyjones-assignment8.cpp(176): warning C4309: 'static_cast': truncation of constant value
+f:\diginotes\cosc 1436\cosc_assignment8\coreyjones-assignment8\coreyjones-assignment8\coreyjones-assignment8.cpp(177): warning C4309: 'static_cast': truncation of constant value
+f:\diginotes\cosc 1436\cosc_assignment8\coreyjones-assignment8\coreyjones-assignment8\coreyjones-assignment8.cpp(182): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\diginotes\cosc 1436\cosc_assignment8\coreyjones-assignment8\coreyjones-assignment8\coreyjones-assignment8.cpp(187): warning C4101: 'DisplayFace': unreferenced local variable
+  CoreyJones-Assignment8.vcxproj -> F:\DigiNotes\COSC 1436\COSC_Assignment8\CoreyJones-Assignment8\Debug\CoreyJones-Assignment8.exe
